@@ -1,0 +1,3 @@
+MainWidget.qrc|"F:\QtDemo\ConvertCodec\ConvertCodec\MainWidget.qrc" -o ".\GeneratedFiles\qrc_MainWidget.cpp" --name MainWidget
+MainWidget.ui|"F:\QtDemo\ConvertCodec\ConvertCodec\MainWidget.ui" -o ".\GeneratedFiles\ui_MainWidget.h"
+MainWidget.h|"F:\QtDemo\ConvertCodec\ConvertCodec\MainWidget.h" -o ".\GeneratedFiles\Debug\moc_MainWidget.cpp" "-I.\GeneratedFiles" "-I." "-ID:\devTools\Qt\Qt5.11.1\5.11.1\msvc2015\include" "-I.\GeneratedFiles\Debug" "-ID:\devTools\Qt\Qt5.11.1\5.11.1\msvc2015\include\QtCore" "-ID:\devTools\Qt\Qt5.11.1\5.11.1\msvc2015\include\QtGui" "-ID:\devTools\Qt\Qt5.11.1\5.11.1\msvc2015\include\QtANGLE" "-ID:\devTools\Qt\Qt5.11.1\5.11.1\msvc2015\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
